@@ -439,14 +439,6 @@ This project is intended ONLY for:
 
 🚫 Unauthorized usage is strictly prohibited.
 
----
-
-# 👨‍💻 Resume Description
-
-Developed an enterprise-grade AI-powered penetration testing framework integrating automated reconnaissance, vulnerability analysis, machine learning-based threat prioritization, real-time dashboard analytics, and automated security report generation using Python, FastAPI, React, Docker, PostgreSQL, Redis, and OWASP security tools.
-
----
-
 # ⭐ Contributing
 
 Pull requests are welcome.
